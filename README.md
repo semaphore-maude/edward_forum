@@ -1,0 +1,1 @@
+### Snippets of programs created for sharing on the [Edward forum](https://discourse.edwardlib.org/) in my quest to improve my probabilistic programming skills.
